@@ -1,4 +1,4 @@
-t98ms-open-issues
+# IMS-open-issues
 =================
 
-管理系统问题汇总
+足协注册管理系统和APP问题汇总
